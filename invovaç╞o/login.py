@@ -33,8 +33,8 @@ driver.implicitly_wait(0.5)
 elemento_login = driver.find_element(by=By.XPATH, value='//*[@id="login_logar"]') 
 elemento_senha = driver.find_element(by=By.XPATH, value='//*[@id="senha_logar"]') 
 
-login = "02205967606" 
-senha = "conzatti2001" 
+login = "" 
+senha = "" 
 
 elemento_login.send_keys(login) 
 elemento_senha.send_keys(senha) 
