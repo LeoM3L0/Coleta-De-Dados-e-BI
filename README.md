@@ -2,7 +2,7 @@
 # Projeto De Inovaç╞o Automaç╞o De Coleta De Dados De Agenda e BI via Metabase
 
 ## Descrição
-Este projeto, chamado **Projeto De Inovaç╞o Automaç╞o De Coleta De Dados De Agenda e BI via Metabase**, foi desenvolvido como parte do meu portfólio para demonstrar habilidades em Tecnologias variadas.
+Este projeto, chamado **Coleta De Dados De Agenda e BI via Metabase**, foi desenvolvido como parte do meu portfólio para demonstrar habilidades em Tecnologias variadas.
 
 ## Tecnologias utilizadas
 - Tecnologias variadas
